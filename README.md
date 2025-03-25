@@ -15,7 +15,7 @@ I am a master's student in Computer Science at Tufts University with expertise i
 
 ---
 
-- 🔭 **I’m currently working on** [Bioinformatics Analyst Tasks](https://github.com/deekshith2001/Bioinformatic-pipeliNE-for-inteGration-And-anaLysis)
+- 🔭 **I’m currently working on** [Analyst Tasks](https://github.com/deekshith2001/Bioinformatic-pipeliNE-for-inteGration-And-anaLysis)
 
 - 👯 **I’m looking to collaborate on** data visualization and interactive dashboards.
 
