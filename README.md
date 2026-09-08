@@ -1,104 +1,115 @@
-<h1 align="center">Hi 👋, I'm Deekshith Sai Teja Komira</h1>
-<h3 align="center">
-I am a master's student in Computer Science at Tufts University with expertise in data science, machine learning, and business intelligence. My interests include leveraging data to solve complex problems and delivering actionable insights. Currently, I am exploring bioinformatics as an analyst, applying data-driven techniques to advance healthcare and life sciences.
-</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=deekshith2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://deekshithkomira.netlify.app/banner.svg" alt="Deekshith Komira — Data Engineer, Analyst, Data Scientist" width="100%" />
 </p>
 
-<p align="center"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=deekshith2001&theme=onedark&no-bg=true&no-frame=true&column=7&titles=commits,repositories,contributions,code,organization">
-    <img src="https://github-profile-trophy.vercel.app/?username=deekshith2001&theme=onedark&no-bg=true&no-frame=true&column=7&titles=commits,repositories,contributions,code,organization" alt="GitHub Trophies" />
-  </a> 
+<p align="center">
+  <a href="https://deekshithkomira.netlify.app"><img src="https://img.shields.io/badge/Portfolio-deekshithkomira.netlify.app-7C5CFF?style=for-the-badge&labelColor=050406" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/komira/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2FE3B0?style=for-the-badge&labelColor=050406" alt="LinkedIn" /></a>
+  <a href="mailto:komira.dee@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-E9C53C?style=for-the-badge&labelColor=050406" alt="Email" /></a>
 </p>
 
 ---
 
-- 🔭 **I’m currently working on** [Analyst Tasks](https://github.com/deekshith2001/Bioinformatic-pipeliNE-for-inteGration-And-anaLysis)
+### The short version
 
-- 👯 **I’m looking to collaborate on** data visualization and interactive dashboards.
+I take data from the source system all the way to the decision.
 
-- 📫 **How to reach me**: deekshithsaiteja25@gmail.com
+Most teams split that into three jobs — engineering, analytics, science. I've done all three, so nothing gets lost in the handoffs, which is usually where projects quietly die. Five years across a Big Four consultancy, pharma, an Oracle partner, an AI research lab, and a Tufts classroom.
 
----
+The part I actually enjoy is the messy bit: working out which system is telling the truth, getting the data somewhere I'd trust, then explaining the answer clearly enough that someone can act on it without taking my word for it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/deekshithdatasciencedataanalytics/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/deekshith.komira" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/deekshith_112501" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+**Boston, MA** · M.S. Computer Science, Tufts · open to data roles, on site or remote.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-</p>
+### Where I've worked
+
+| Role | Organisation | When |
+|---|---|---|
+| **AI & Data Analyst Associate** | Deloitte | 2024 — Present |
+| **Graduate Course Assistant** | Tufts University · Medford, MA | Sep 2024 — Sep 2025 |
+| **Data Analytics Co-op** | Apps Associates · Acton, MA | Jun — Nov 2024 |
+| **Data Science Intern** | Johnson & Johnson · New Brunswick, NJ | Apr — Jun 2024 |
+| **Research Study Assistant, AI** | NIT Warangal · Remote | Apr — Jun 2023 |
+| **Data Analyst Intern** | Tata Elxsi · Pune, India | Apr — Sep 2022 |
+
+A few things I'm glad I built:
+
+- Gave stakeholders back roughly **20 hours a week** by automating recurring reports and analytical pipelines in Python and SQL — replacing ad-hoc requests with self-serve Power BI dashboards.
+- Cut the time teams spend hunting through internal documents by building and deploying a **retrieval-augmented (RAG) assistant** on LLMs.
+- Mentored **50+ students** and ran **100+ code reviews** across Python, SQL and statistics at Tufts.
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshith2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### What I do
+
+| | |
+|---|---|
+| **Data Engineering** | Ingestion and transformation that survives messy, late and contradictory inputs. Modelling, orchestration, and data quality checks that fail loudly instead of silently. |
+| **Analytics** | Turning a vague question into a defined metric, then into a dashboard someone reopens next week. Power BI, Excel and SQL that other people can read. |
+| **Data Science** | Models scoped to a decision, not to a leaderboard. Feature work, validation that reflects how the thing will actually be used, and honest error bars. |
+
+---
+
+### Selected work
+
+| Project | What it is |
+|---|---|
+| [Bioinformatics Integration & Analysis Pipeline](https://github.com/deekshith2001/Bioinformatic-pipeliNE-for-inteGration-And-anaLysis) | End-to-end pipeline for integrating and analysing biological datasets. |
+| [Single-Cell RNA-Seq Pipeline](https://github.com/deekshith2001/Single-Cell-RNA-Seq-Analysis-Pipeline) | Processing and analysis workflow for single-cell transcriptomics data. |
+| [Healthcare Data Analytics Pipeline](https://github.com/deekshith2001/Healthcare-Data-Analytics-Pipeline) | Analytics pipeline over healthcare data, from ingestion through reporting. |
+| [EV Charging Station Siting — Boston](https://github.com/deekshith2001/Optimal-Locations-for-Electric-Vehicle-EV-Charging-Stations-in-the-Boston-Region) | Geospatial analysis identifying optimal charging-station locations across the Boston region. |
+| [Car Sales Dashboard](https://github.com/deekshith2001/-Car-Sales-Dashboard-Utilizing-Power-BI) | Power BI dashboard covering sales performance and trends. |
+| [Predicting Minority Status of Women-Owned Businesses](https://github.com/deekshith2001/Predicting-the-Minority-Status-of-Women-Owned-Businesses-in-Boston) | Classification model over Boston business registration data. |
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://deekshithkomira.netlify.app/matrix.svg" alt="Skills matrix — which tools I used at which organisation" width="100%" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith2001&show_icons=true&locale=en" alt="GitHub Stats" />
+**Languages & core**
+![Python](https://img.shields.io/badge/Python-050406?style=flat-square&logo=python&logoColor=2FE3B0)
+![SQL](https://img.shields.io/badge/SQL-050406?style=flat-square&logo=postgresql&logoColor=2FE3B0)
+![Bash](https://img.shields.io/badge/Bash-050406?style=flat-square&logo=gnubash&logoColor=2FE3B0)
+![Git](https://img.shields.io/badge/Git-050406?style=flat-square&logo=git&logoColor=2FE3B0)
+![Linux](https://img.shields.io/badge/Linux-050406?style=flat-square&logo=linux&logoColor=2FE3B0)
+
+**Pipelines & data**
+![ETL pipelines](https://img.shields.io/badge/ETL%20pipelines-1a1720?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-050406?style=flat-square&logo=apachespark&logoColor=7C5CFF)
+![Hadoop](https://img.shields.io/badge/Hadoop-050406?style=flat-square&logo=apachehadoop&logoColor=7C5CFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050406?style=flat-square&logo=postgresql&logoColor=7C5CFF)
+![MySQL](https://img.shields.io/badge/MySQL-050406?style=flat-square&logo=mysql&logoColor=7C5CFF)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1720?style=flat-square)
+![Data quality & governance](https://img.shields.io/badge/Data%20quality%20%26%20governance-1a1720?style=flat-square)
+
+**Cloud & platforms**
+![AWS](https://img.shields.io/badge/AWS-1a1720?style=flat-square)
+![Oracle Fusion / OCI](https://img.shields.io/badge/Oracle%20Fusion%20%2F%20OCI-1a1720?style=flat-square)
+
+**ML & AI**
+![pandas](https://img.shields.io/badge/pandas-050406?style=flat-square&logo=pandas&logoColor=2FE3B0)
+![NumPy](https://img.shields.io/badge/NumPy-050406?style=flat-square&logo=numpy&logoColor=2FE3B0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-050406?style=flat-square&logo=scikitlearn&logoColor=2FE3B0)
+![PyTorch](https://img.shields.io/badge/PyTorch-050406?style=flat-square&logo=pytorch&logoColor=2FE3B0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-050406?style=flat-square&logo=tensorflow&logoColor=2FE3B0)
+![OpenCV](https://img.shields.io/badge/OpenCV-050406?style=flat-square&logo=opencv&logoColor=2FE3B0)
+![LangChain](https://img.shields.io/badge/LangChain-050406?style=flat-square&logo=langchain&logoColor=2FE3B0)
+![LLMs & RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-1a1720?style=flat-square)
+
+**BI & reporting**
+![Power BI](https://img.shields.io/badge/Power%20BI-1a1720?style=flat-square)
+![Excel / Sheets](https://img.shields.io/badge/Excel%20%2F%20Sheets-1a1720?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-050406?style=flat-square&logo=jupyter&logoColor=2FE3B0)
+![Plotly](https://img.shields.io/badge/Plotly-050406?style=flat-square&logo=plotly&logoColor=2FE3B0)
+
+---
+
+<p align="center">
+  <b>Looking for a data engineer, analyst or scientist?</b><br/>
+  Email is quickest — <a href="mailto:komira.dee@gmail.com">komira.dee@gmail.com</a> · <a href="https://deekshithkomira.netlify.app">See the full portfolio</a>
+</p>ign="center" src="https://github-readme-stats.vercel.app/api?username=deekshith2001&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
