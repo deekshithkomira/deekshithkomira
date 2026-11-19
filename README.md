@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://deekshithkomira-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-deekshithkomira--portfolio.netlify.app-7C5CFF?style=for-the-badge&labelColor=050406" alt="Portfolio" /></a>
+  <a href="https://deekshithkomira.github.io"><img src="https://img.shields.io/badge/Portfolio-deekshithkomira.github.io-7C5CFF?style=for-the-badge&labelColor=050406" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/komira/"><img src="https://img.shields.io/badge/LinkedIn-komira-2FE3B0?style=for-the-badge&labelColor=050406" alt="LinkedIn" /></a>
   <a href="mailto:komira.dee@gmail.com"><img src="https://img.shields.io/badge/Email-komira.dee%40gmail.com-E9C53C?style=for-the-badge&labelColor=050406" alt="Email" /></a>
 </p>
@@ -41,12 +41,12 @@ A few results I'm glad to put my name on:
 | Project | What it is |
 |---|---|
 | [Massachusetts Analytics](https://github.com/ooops007/ma-analytics) | Two warehouse-backed analytics projects on 20M rows of Massachusetts open data: DuckDB star schema, Streamlit dashboards, 14-page research paper. |
-| [EV Charging Station Siting, Boston](https://github.com/deekshith2001/Optimal-Locations-for-Electric-Vehicle-EV-Charging-Stations-in-the-Boston-Region) | GIS multi-criteria suitability analysis for EV charger locations across the Boston region. |
-| [Predicting Minority Status of Women-Owned Businesses](https://github.com/deekshith2001/Predicting-the-Minority-Status-of-Women-Owned-Businesses-in-Boston) | Classification model over Boston business, geographic and socioeconomic data. |
-| [Car Sales Dashboard](https://github.com/deekshith2001/-Car-Sales-Dashboard-Utilizing-Power-BI) | Power BI dashboard for YTD, MTD and year-over-year sales performance. |
-| [Single-Cell RNA-Seq Pipeline](https://github.com/deekshith2001/Single-Cell-RNA-Seq-Analysis-Pipeline) | PCA, t-SNE, UMAP, GMM and DBSCAN clustering on 137 cells and 54,675 genes. |
-| [BENGAL (contributor)](https://github.com/deekshith2001/Bioinformatic-pipeliNE-for-inteGration-And-anaLysis) | Nextflow pipeline benchmarking cross-species single-cell RNA-seq integration. Original author: Yuyao Song, EMBL-EBI. |
-| [Weapon Detection in CCTV](https://github.com/deekshith2001/weapon-detection-cctv) | Real-time YOLOv4 detector trained on a dataset I compiled and annotated. Published 2023. |
+| [EV Charging Station Siting, Boston](https://github.com/deekshithkomira/Optimal-Locations-for-Electric-Vehicle-EV-Charging-Stations-in-the-Boston-Region) | GIS multi-criteria suitability analysis for EV charger locations across the Boston region. |
+| [Predicting Minority Status of Women-Owned Businesses](https://github.com/deekshithkomira/Predicting-the-Minority-Status-of-Women-Owned-Businesses-in-Boston) | Classification model over Boston business, geographic and socioeconomic data. |
+| [Car Sales Dashboard](https://github.com/deekshithkomira/-Car-Sales-Dashboard-Utilizing-Power-BI) | Power BI dashboard for YTD, MTD and year-over-year sales performance. |
+| [Single-Cell RNA-Seq Pipeline](https://github.com/deekshithkomira/Single-Cell-RNA-Seq-Analysis-Pipeline) | PCA, t-SNE, UMAP, GMM and DBSCAN clustering on 137 cells and 54,675 genes. |
+| [BENGAL (contributor)](https://github.com/deekshithkomira/Bioinformatic-pipeliNE-for-inteGration-And-anaLysis) | Nextflow pipeline benchmarking cross-species single-cell RNA-seq integration. Original author: Yuyao Song, EMBL-EBI. |
+| [Weapon Detection in CCTV](https://github.com/deekshithkomira/weapon-detection-cctv) | Real-time YOLOv4 detector trained on a dataset I compiled and annotated. Published 2023. |
 
 ---
 
@@ -66,5 +66,5 @@ A few results I'm glad to put my name on:
 
 <p align="center">
   <b>Hiring for data quality, analytics or BI?</b><br/>
-  Email is quickest: <a href="mailto:komira.dee@gmail.com">komira.dee@gmail.com</a> · <a href="https://deekshithkomira-portfolio.netlify.app">Portfolio</a> · <a href="https://www.linkedin.com/in/komira/">LinkedIn</a>
+  Email is quickest: <a href="mailto:komira.dee@gmail.com">komira.dee@gmail.com</a> · <a href="https://deekshithkomira.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/komira/">LinkedIn</a>
 </p>
